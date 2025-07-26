@@ -1,4 +1,4 @@
-### Oi, Eu sou o Adilson Rodrigues !!! 
+### Hi, I am Adilson Rodrigues !!! 
 
 <div align="center">
   <a href="https://github.com/adilsonjvr">
