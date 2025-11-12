@@ -10,7 +10,7 @@ Sou desenvolvedor baseado no Brasil com experiência em múltiplas linguagens e 
 
 ---
 
-## 💻 Principais Tecnologias
+## Principais Tecnologias
 
 <div align="center">
 
@@ -45,7 +45,7 @@ Sou desenvolvedor baseado no Brasil com experiência em múltiplas linguagens e 
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adilsonjvr&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=default&hide_border=true" height="160" alt="Linguagens mais utilizadas" />
@@ -53,7 +53,7 @@ Sou desenvolvedor baseado no Brasil com experiência em múltiplas linguagens e 
 
 ---
 
-## 🔗 Conecte-se Comigo
+## Conecte-se Comigo
 
 <div align="center">
 
